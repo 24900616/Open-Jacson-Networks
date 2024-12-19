@@ -18,6 +18,7 @@ Visual components and Python
 
 
 ## Experiment:
+![image](https://github.com/user-attachments/assets/9159dad9-f896-469c-8b58-d7e27f5f6f18)
 
 
 ## Program
@@ -26,9 +27,6 @@ Name: Swetha.K
 Register Number: 24900616
 ```
 ```
-DEVELOPED BY : DEEPIKA.J
-REGISTER NO : 212221230016
-
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time1=float(input("Enter the mean  inter service time of Lathe Machine 1 (in secs) :  "))
 ser_time2=float(input("Enter the mean  inter service time of Lathe Machine 2 (in secs) :  "))
